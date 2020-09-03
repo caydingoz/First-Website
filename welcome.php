@@ -19,7 +19,7 @@ if (!isset($_SESSION['loggedin'])) {
 	<div class="bodyContainer" >
 		<nav class="navtop" >
 			<div>
-				<h1>Diyarbakırlı Mehmet Ustanın Yeri</h1>
+				<h1>Php Website</h1>
 				<a href="welcome.php"><i class="fas fa-home"></i>Ana Sayfa</a>
 				<a href="shop/shop.php"><i class="fas fa-shopping-cart"></i>Shop</a>
 				<a href="movies/movies.php"><i class="fas fa-images"></i>Movies</a>
