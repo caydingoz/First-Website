@@ -51,7 +51,7 @@
 					$_SESSION['loggedin'] = TRUE;
 					$_SESSION['name'] = $username;
 					$_SESSION['id'] = $id;
-				header("Location:welcome.php ");
+				header("Location:../welcome.php ");
 			}else{
 				header("Location: login.php?email=used");
 			}
